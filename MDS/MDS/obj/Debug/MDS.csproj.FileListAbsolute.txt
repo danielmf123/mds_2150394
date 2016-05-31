@@ -1,0 +1,25 @@
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\bin\Debug\MDS.exe.config
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\bin\Debug\MDS.exe
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\bin\Debug\MDS.pdb
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.csprojResolveAssemblyReference.cache
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.Form1.resources
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.Properties.Resources.resources
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.RegisterUser.resources
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.csproj.GenerateResource.Cache
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.exe
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.pdb
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.UpdateUser.resources
+c:\users\maduro\documents\visual studio 2015\Projects\MDS\MDS\obj\Debug\MDS.SuspendUser.resources
+A:\Projetos\C#\Visual C#\MDS\MDS\bin\Debug\MDS.exe.config
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.exe
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.pdb
+A:\Projetos\C#\Visual C#\MDS\MDS\bin\Debug\MDS.exe
+A:\Projetos\C#\Visual C#\MDS\MDS\bin\Debug\MDS.pdb
+A:\Projetos\C#\Visual C#\MDS\MDS\bin\Debug\MySql.Data.dll
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.csprojResolveAssemblyReference.cache
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.Form1.resources
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.Properties.Resources.resources
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.RegisterUser.resources
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.SuspendUser.resources
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.UpdateUser.resources
+A:\Projetos\C#\Visual C#\MDS\MDS\obj\Debug\MDS.csproj.GenerateResource.Cache
